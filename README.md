@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="bots/FwS-Bots/Bot.png" alt="FwSchultz Assets" width="200" height="auto" />
+  <img src="bots/FwS-Bots/logo.png" alt="FwSchultz Assets" width="200" height="auto" />
   <h1>FwSchultz Assets</h1>
 
   <p>Zentrale Ablage für Logos, Symbole, Screenshots und weitere Medien meiner GitHub-Projekte.</p>
